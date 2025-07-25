@@ -69,7 +69,7 @@ A beautiful, responsive, and animated weather app built with **React Native** an
 
 ### 1. Clone the repository
 bash
-git clone https://github.com/your-username/weather-app-pro.git
+git clone https://github.com/AbdulRehman-Qasim/Weather_App_Pro.git
 cd weather-app-pro
 
 
