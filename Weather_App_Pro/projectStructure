@@ -1,0 +1,16 @@
+WeatherApp/
+│
+├── screens/
+│   └── HomeScreen.js
+│
+├── components/
+│   └── WeatherCard.js
+│   └── SearchBar.js
+│
+├── utils/
+│   └── fetchWeather.js
+│
+├── assets/
+│   └── icons/
+│
+└── App.js
